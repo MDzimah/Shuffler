@@ -49,12 +49,6 @@
 **Q: Can I use this on macOS/Linux?**  
 A: Currently, only Windows EXE is provided. Linux/macOS users can compile from source (Java required).  
 
-**Q: How do I set a workspace directory?**  
-A: Click the `Set Directory` button (gear icon) and select a folder.  
-
-**Q: Why does the "Batch already shuffled" message appear?**  
-A: It means all sentences have been displayed once. The list reshuffles automatically!  
-
 ## Contributing & Source Code 💻  
 This app is built with Java Swing. Developers can:  
 1. Clone the repository  
