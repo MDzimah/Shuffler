@@ -1,4 +1,4 @@
-# Sentence Shuffler  
+# Shuffler  
 **A Ready-to-Use Desktop App for Shuffling Sentences (for now)**  
 
 ![App Screenshot](screenshots/main-window.png)  
