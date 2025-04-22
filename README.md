@@ -12,7 +12,7 @@
 - 🗂️ **Workspace Setup** – Choose a default directory for file operations  
 
 ## How to Use 🖱️  
-1. **Download** the EXE file from the [Releases section](https://github.com/yourusername/yourrepo/releases).  
+1. **Download** the EXE file from the [Releases section](https://github.com/MDzimah/Shuffler/releases).  
 2. **Run** `SentenceShuffler.exe` (Windows users may need to allow permissions).  
 3. **Load Sentences**:  
    - Click the `Open` button (folder icon) to select a .txt file  
