@@ -4,7 +4,6 @@
 ![App Screenshot](screenshots/main-window.png)  
 
 ## Features ✨  
-- 🚀 **No Installation Required** – Run directly from the EXE file  
 - 📖 **Display Panel** – Large text area to show shuffled sentences  
 - ⏱️ **Adjustable Delay** – Set time between sentences (1-180 seconds)  
 - 📂 **Load Text Files** – Supports .txt files (1 sentence per line)  
