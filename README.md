@@ -3,13 +3,13 @@
 
 ![App Screenshot](screenshots/main-window.png)  
 
-## Features ✨  
-- 📖 **Display Panel** – Large text area to show shuffled sentences  
-- ⏱️ **Adjustable Delay** – Set time between sentences (1-180 seconds)  
-- 📂 **Load Text Files** – Supports .txt files (1 sentence per line)  
-- 🔄 **Smart Shuffling** – Avoids repeating the same sentence consecutively  
-- 🚨 **Traversal Alert** – Visual warning when all sentences have been cycled  
-- 🗂️ **Workspace Setup** – Choose a default directory for file operations  
+## Features  
+- **Display Panel** – Large text area to show shuffled sentences  
+- **Adjustable Delay** – Set time between sentences (1-180 seconds)  
+- **Load Text Files** – Supports .txt files (1 sentence per line)  
+- **Smart Shuffling** – Avoids repeating the same sentence consecutively  
+- **Traversal Alert** – Visual warning when all sentences have been cycled  
+- **Workspace Setup** – Choose a default directory for file operations  
 
 ## How to Use 🖱️  
 1. **Download** the EXE file from the [Releases section](https://github.com/MDzimah/Shuffler/releases).  
@@ -26,7 +26,7 @@
 5. **Start Shuffling**: Click the `Run` button (play icon).  
 6. **Stop Anytime**: Click the `Stop` button (square icon).  
 
-## Interface Overview 🖥️   
+## Interface Overview   
 1. **Control Panel** (Top Bar) (In order from left to right):
    - `Run/Stop` – Start/pause shuffling   
    - `Open` – Load text files  
@@ -36,7 +36,7 @@
    - Shows current sentence in large, auto-resizing text  
    - Red warning appears when all sentences are cycled  
 
-## Troubleshooting ⚠️  
+## Troubleshooting  
 - If the app doesn’t launch:  
   - Ensure your OS is **Windows 10/11** (64-bit)  
   - Install [Microsoft Visual C++ Redistributable](https://aka.ms/vs/17/release/vc_redist.x64.exe) if required  
@@ -44,11 +44,11 @@
   - Use plain .txt files (no rich formatting)  
   - Check file encoding (use UTF-8)  
 
-## FAQs ❓  
+## FAQs  
 **Q: Can I use this on macOS/Linux?**  
 A: Currently, only Windows EXE is provided. Linux/macOS users can compile from source (Java required).  
 
-## Contributing & Source Code 💻  
+## Contributing & Source Code  
 This app is built with Java Swing. Developers can:  
 1. Clone the repository  
 2. Import into Java IDE (e.g., IntelliJ/Eclipse)  
